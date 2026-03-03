@@ -8,7 +8,6 @@ local defaultSpeed = 16
 local fastSpeed = 50
 
 local iconURL = "https://raw.githubusercontent.com/PJKUNGHUB/scripthub/main/icon.png"
-
 -- GUI
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "PJKUNG_HUB"
